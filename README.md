@@ -1,6 +1,6 @@
                                                           **SMART RESUME BUILDERS**
                                                                    
-<u>**Over View**</u>   
+- <u>**Over View**</u>   
 
 Smart Resume Builder is a resume creation and management platform designed to simplify the resume-building process for job seekers while enabling HR teams to store, search, and manage candidate profiles efficiently.
 
