@@ -1,10 +1,10 @@
-                                                          # SMART RESUME BUILDERS
+# SMART RESUME BUILDERS
                                                                    
-**Over View**  
+### OVER VIEW
 
 Smart Resume Builder is a resume creation and management platform designed to simplify the resume-building process for job seekers while enabling HR teams to store, search, and manage candidate profiles efficiently.
 
-<u>**Key Features**</u>
+### KEY FEATURES
 
  **User Registration & Authentication** – Secure user login and account management.
 
@@ -18,6 +18,6 @@ Smart Resume Builder is a resume creation and management platform designed to si
 
 **Secure Data Storage** – MySQL database ensures structured and safe resume storage.
 
-**Technologies Used**
+### TECHNOLOGY USED
 
 **MySQL** – Database for structured resume storage.
